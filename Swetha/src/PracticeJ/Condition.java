@@ -7,7 +7,7 @@ public class Condition {
 		
 		if(learning)
 		{
-			System.out.println("Java programmer");
+			System.out.println("Java  a b programmer");
 		}
 		else
 		{
