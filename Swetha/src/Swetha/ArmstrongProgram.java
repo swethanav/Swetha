@@ -6,7 +6,7 @@ public class ArmstrongProgram {
 
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
-		System.out.println("Enter the input number");
+		System.out.println("Enter the number");
 		int number = obj.nextInt(); 
 		int originalNumber, remainder, result = 0;
 		originalNumber = number;
